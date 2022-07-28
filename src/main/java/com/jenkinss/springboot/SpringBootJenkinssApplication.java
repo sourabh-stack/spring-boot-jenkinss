@@ -14,7 +14,7 @@ public class SpringBootJenkinssApplication {
 	
 	@PostConstruct
 	public void init() {
-		logger.info("Inside INIT method'''''''");
+		logger.info("Inside INIT method'''''");
 	}
 	
 	public static void main(String[] args) {
